@@ -1,1 +1,1 @@
-print("✅ Jenkins Python build successful! part-2")
+print("✅ Jenkins Python build successful on commit")
